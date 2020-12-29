@@ -633,7 +633,7 @@ Headers:		'Poppins', sans-serif;
     position: relative;
 }
 .navbar .nav-link:after {
-    background-color: #7587c1;
+    background-color: #15253b/*#7587c1*/;
     bottom: .6rem;
     content: "";
     height: .2rem;
@@ -662,7 +662,7 @@ Headers:		'Poppins', sans-serif;
 .navbar-light .navbar-nav .nav-link:hover {
     color: #FFF;
     opacity: .8;
-    background-color: #7587c1;
+    background-color: #15253b;
     bottom: .6rem;
     content: "";
     transition: .3s ease;
@@ -1003,15 +1003,18 @@ ul, ol {
     position: relative;
 }
 .button-border{
-    border: solid #7587c1!importa;
+    border: solid #15253b!important;
 }
 
 .btn.btn-framed.btn-primary {
-    border-color: #7587c1;
+    border-color: #15253b;
+}
+.title-color{
+    color:#15253b;
 }
 .btn.btn-framed.btn-primary:hover, .btn.btn-framed.btn-primary:focus, .btn.btn-framed.btn-primary:active {
-    background-color: #7587c1;
-    border-color: #7587c1;
+    background-color: #15253b;
+    border-color: #15253b;
     box-shadow: none;
     color: #fff;
 }
@@ -1549,11 +1552,18 @@ textarea.form-control {
 .text-color-default {
     color: #7587c1;
 }
+.video{
+    width: 444px;
+}
 /*5. Responsive*/
 /*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 // 1200px and up
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
-@media (min-width: 1200px) {}
+@media (min-width: 1200px) {
+    .video{
+        width: 444px;
+    }
+}
 /*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 // 992px - 1199px
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
@@ -1574,6 +1584,9 @@ textarea.form-control {
     body {
         font-size: 1.4rem;
         line-height: 2.4rem;
+    }
+    .video{
+        width: 350px;
     }
     .block {
         padding-top: 6rem;
@@ -1631,6 +1644,9 @@ textarea.form-control {
         font-size: 1.4rem;
         line-height: 2.4rem;
     }
+    .video{
+        width: 350px;
+    }
     .big-number h4 {
         font-size: 6rem;
     }
@@ -1673,7 +1689,7 @@ textarea.form-control {
 @media (min-width: 600px){
 	.bannerDois{
 		display:none!important;
-	}	
+    }
 }
 /*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 // max to 767px
@@ -1694,6 +1710,9 @@ textarea.form-control {
     .blockquote.blockquote--advanced:before {
         height: 100%;
         width: 100%;
+    }
+    .video{
+        width: 350px;
     }
     h2 {
         font-size: 4rem;
@@ -1833,6 +1852,10 @@ textarea.form-control {
     .fa-instagram{
         color: #ffffff;
         font-size: 20px;
+    }
+
+    .video{
+        width: 350px;
     }
 }
 

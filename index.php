@@ -169,7 +169,7 @@
                         <div class="row">
                             <div class="col-md-6" data-anime="left">
                                 <div class="push-down">
-                                    <h2 class="text-align-right" data-scroll-reveal="enter left and move 10px">Seu sonho realizado!</h2>
+                                    <h2 class="text-align-right title-color" data-scroll-reveal="enter left and move 10px">Seu sonho realizado!</h2>
                                     <p class="text-align-justify" data-scroll-reveal="enter left and move 10px after 0.1s">
                                         O Residencial Formosa está localizado em Planaltina do Goiás, pertinho de você com todo conforto e qualidade que você precisa para realizar o seu sonho da casa própria.
                                         O empreendimento será construído com recursos do FGTS, concedido pelo programa Minha Casa Minha Vida e terá prazo de financiamento de 360 meses. Os custos do beneficiário serão mínimos: parcelas a partir de R$400,00.
@@ -178,7 +178,7 @@
                                 </div>
                             </div>
                             <div class="col-md-5" data-anime="left">
-                                <img class="width-100 shadow rounded-corners pl-img2" src="assets/img/residencialFormosa1.jpeg" alt="Residencial Formosa visão 1">
+                                <img class="width-100 shadow rounded-corners pl-img2" src="assets/img/residencial.jpeg" alt="Residencial Flor do Cerrado">
                             </div>
                         </div>
                         <!--end row-->
@@ -205,7 +205,7 @@
                         <div class="row">
                             <div class="col-md-12" data-anime="left">
                                 <div class="push-down">
-                                    <h2 class="text-align-center" data-scroll-reveal="enter left and move 10px">Quem pode se inscrever?</h2>
+                                    <h2 class="text-align-center title-color" data-scroll-reveal="enter left and move 10px">Quem pode se inscrever?</h2>
                                     <h4 class="text-align-center" data-scroll-reveal="enter left and move 10px">Famílias que atendam os seguintes requisitos:</h3>
                                     <p class="text-align-left" data-scroll-reveal="enter left and move 10px after 0.1s">
                                         <ol>
@@ -239,21 +239,26 @@
             <section class="block" id="developing-process">
                 <div class="container">
                     <div class="block__title text-center">
-                        <h2 data-anime="left">Etapas</h2>
+                        <h2 class="title-color" data-anime="left">Etapas</h2>
                     </div>
                     <!--end block-title-->
                     <div class="block__wrapper">
 
                         <div class="row">
-                            <div class="col-md-5" data-anime="right">
-                                <img src="assets/img/residencialFormosa2.jpeg" class="width-100 shadow rounded-corners pl-img" alt="Residencial Formosa visão 2">
-                                <img src="assets/img/residencialFormosa3.jpeg" class="width-100 shadow rounded-corners pl-img pl-img3" alt="Residencial Formosa visão 3">
+                            <div class="col-md-5" data-anime="left">
+                                <img src="assets/img/residencialflordocerrado.jpeg" class="width-100 shadow rounded-corners pl-img" alt="Residencial Formosa visão 2">
+                                <img src="assets/img/residencial1.jpeg" class="width-100 shadow rounded-corners pl-img pl-img3" alt="Residencial Formosa visão 3">
+                                <video class="video" height="300" controls="controls" preload="auto" autoplay="true">
+                                    <source src="assets/img/engenharia.mp4" type="video/mp4">
+                                    <source src="filme.ogg" type="video/ogg">
+                                Seu navegador não suporta HTML5.
+                                </video>
                             </div>
                             <div class="col-md-6">
                                 <ul class="list list--text list--dashed">
                                     <li data-scroll-reveal="enter bottom and move 10px">
                                     <h5 class="opacity-50"><strong data-anime="left">Fase 1</strong></h5>                                        
-                                        <h4  data-anime="right">Inscrições                                            
+                                        <h4  data-anime="left">Inscrições                                            
                                         </h4>
                                         <p data-anime="left">
                                              Presencialmente no ponto de atendimento na Rua MC, Quadra QC 1 MC, Lote 2, sala 106, Setor Norte, Planaltina/GO (ao lado da Caixa Econômica Federal). Para fazer o download da documentação necessária,<a href="assets/img/requisitos.pdf" download> <u>clique aqui!</u></a>
@@ -261,23 +266,23 @@
                                     </li>
                                     <li data-scroll-reveal="enter bottom and move 10px after 0.1s">
                                     <h5 class="opacity-50"><strong data-anime="left">Fase 2</strong></h5>                                        
-                                        <h4 data-anime="right">Avaliação de Crédito                                           
+                                        <h4 data-anime="left" >Avaliação de Crédito                                           
                                         </h4>
                                         <p data-anime="left">
                                             A análise de crédito será feita pela representante da CAIXA conforme as regras de financiamento da instituição. Durante este período de avaliação de crédio as famílias interessadas deverão ir até o ponto de atendimento com toda a documentação exigida.
                                         </p>
                                     </li>
                                     <li data-scroll-reveal="enter bottom and move 10px after 0.2s">
-                                    <h5 class="opacity-50"><strong data-anime="right">Fase 3</strong></h5>                                        
+                                    <h5 class="opacity-50"><strong data-anime="left">Fase 3</strong></h5>                                        
                                         <h4 data-anime="left">Sorteio                                           
                                         </h4>
-                                        <p data-anime="right">
+                                        <p data-anime="left">
                                             O sorteio só será realizado no caso do número de interessados cadastrados e aprovados for maior do que a quantidade de unidades habitacionais disponibilizadas.
                                         </p>
                                     </li>
                                     <li data-scroll-reveal="enter bottom and move 10px after 0.3s">
                                     <h5 class="opacity-50"><strong data-anime="left">Fase 4</strong></h5>                                        
-                                        <h4 data-anime="right">Análise da documentação                                          
+                                        <h4 data-anime="left">Análise da documentação                                          
                                         </h4>
                                         <p data-anime="left">
                                             Análise de documentos pela Agência Goiana de Habitação (AGEHAB).
@@ -326,7 +331,7 @@
                 <div class="container">
                     <div class="block__wrapper">
                         <div class="block__title">
-                            <h2 class="text-align-left" data-anime="left">Fale Conosco</h2>
+                            <h2 class="text-align-left title-color" data-anime="left">Fale Conosco</h2>
                         </div>
                         <!--end block-title-->
                         <div class="row">
@@ -340,7 +345,7 @@
                                         <figure data-anime="left">
                                             <label>E-mail:</label>
                                             <div>
-                                                <div data-anime="left">contato@residencialformosa.com.br</div>
+                                                <div data-anime="left">flordocerrado2021@gmail.com</div>
                                             </div>
                                         </figure>  
                                         <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
@@ -348,7 +353,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-xl-7 col-lg-6 col-md-12 col-sm-12" data-anime="right">
+                            <div class="col-xl-7 col-lg-6 col-md-12 col-sm-12" >
                                 <h4></h4>
 
 
@@ -392,9 +397,9 @@
                                                     <div class="col-md-6 col-sm-6">
                                                         <div class="form-group">
                                                             <div id="mauticform_formulariocontatoplanaltina_seu_nome" data-validate="seu_nome" data-validation-type="text" class="mauticform-row mauticform-text mauticform-field-1 mauticform-required">
-                                                                <label id="mauticform_label_formulariocontatoplanaltina_seu_nome" for="mauticform_input_formulariocontatoplanaltina_seu_nome" class="mauticform-label">Seu Nome</label>
+                                                                <label data-anime="right" id="mauticform_label_formulariocontatoplanaltina_seu_nome" for="mauticform_input_formulariocontatoplanaltina_seu_nome" class="mauticform-label">Seu Nome</label>
 
-                                                                <input id="mauticform_input_formulariocontatoplanaltina_seu_nome" name="mauticform[seu_nome]" placeholder="Seu Nome" class="form-control mauticform-input" type="text">
+                                                                <input id="mauticform_input_formulariocontatoplanaltina_seu_nome" name="mauticform[seu_nome]" data-anime="right" placeholder="Seu Nome" class="form-control mauticform-input" type="text">
                                                                 <span class="mauticform-errormsg" style="display: none;">Este campo é obrigatório</span>
                                                             </div>
                                                         </div>
@@ -406,9 +411,9 @@
 
 
                                                             <div id="mauticform_formulariocontatoplanaltina_seu_email" data-validate="seu_email" data-validation-type="email" class="mauticform-row mauticform-email mauticform-field-2 mauticform-required">
-                                                                <label id="mauticform_label_formulariocontatoplanaltina_seu_email" for="mauticform_input_formulariocontatoplanaltina_seu_email" class="mauticform-label">Seu E-mail</label>
+                                                                <label  data-anime="right" id="mauticform_label_formulariocontatoplanaltina_seu_email" for="mauticform_input_formulariocontatoplanaltina_seu_email" class="mauticform-label">Seu E-mail</label>
 
-                                                                <input id="mauticform_input_formulariocontatoplanaltina_seu_email" name="mauticform[seu_email]" placeholder="Seu E-mail" class="form-control mauticform-input" type="email">
+                                                                <input id="mauticform_input_formulariocontatoplanaltina_seu_email" name="mauticform[seu_email]" data-anime="right" placeholder="Seu E-mail" class="form-control mauticform-input" type="email">
                                                                 <span class="mauticform-errormsg" style="display: none;">Este campo é obrigatório</span>
                                                             </div>                                                        
                                                         </div>
@@ -422,9 +427,9 @@
 
                                                             <div id="mauticform_formulariocontatoplanaltina_sua_mensagem" data-validate="sua_mensagem" data-validation-type="textarea" class="mauticform-row mauticform-text mauticform-field-3 mauticform-required">
 
-                                                            <label id="mauticform_label_formulariocontatoplanaltina_sua_mensagem" for="mauticform_input_formulariocontatoplanaltina_sua_mensagem" class="mauticform-label">Sua Mensagem</label>
+                                                            <label  data-anime="right" id="mauticform_label_formulariocontatoplanaltina_sua_mensagem" for="mauticform_input_formulariocontatoplanaltina_sua_mensagem" class="mauticform-label">Sua Mensagem</label>
 
-                                                            <textarea id="mauticform_input_formulariocontatoplanaltina_sua_mensagem" name="mauticform[sua_mensagem]"  placeholder="Sua Mensagem"  rows="8" class="mauticform-textarea"></textarea>
+                                                            <textarea id="mauticform_input_formulariocontatoplanaltina_sua_mensagem" name="mauticform[sua_mensagem]"  data-anime="right" placeholder="Sua Mensagem"  rows="8" class="mauticform-textarea"></textarea>
                                                             <span class="form-control mauticform-errormsg" style="display: none;">Este campo é obrigatório</span>
                                                             </div>
                                                         </div>
@@ -434,7 +439,7 @@
                                                 </div>
                                                 <div class="form-group clearfix">
                                                     <div id="mauticform_formulariocontatoplanaltina_submit" class="mauticform-row mauticform-button-wrapper mauticform-field-4">
-                                                            <button type="submit" name="mauticform[submit]" id="mauticform_input_formulariocontatoplanaltina_submit form-contact-submit" value="" class="btn pull-right btn-primary btn-framed mauticform-button button-border ">Enviar</button>
+                                                            <button data-anime="right" type="submit" name="mauticform[submit]" id="mauticform_input_formulariocontatoplanaltina_submit form-contact-submit" value="" class="btn pull-right btn-primary btn-framed mauticform-button button-border ">Enviar</button>
                                                     </div>
                                                 </div>
                                                 <input type="hidden" name="mauticform[formId]" id="mauticform_formulariocontatoplanaltina_id" value="3">
@@ -464,18 +469,18 @@
             <section class="block" id="localizacao">
                 <div class="container">
                     <div class="block__wrapper">
-                        <div class="block__title" data-anime="right">
-                            <h2 class="text-align-left">Ponto de Venda</h2>
+                        <div class="block__title" data-anime="left">
+                            <h2 class="text-align-left title-color">Ponto de Venda</h2>
                             <h3>Venha garantir sua casa própria!</h3>
                         </div>
                         <!--end block-title-->
-                        <div class="map-wrapper" data-anime="right">
+                        <div class="map-wrapper" data-anime="left">
                             <div class="pack d-inline-block" data-scroll-reveal="enter bottom and move 10px" style="color:#000;">
                                 <h4>Ponto de Venda</h4>
                                 <address>
-                                    Quadra QC 1 MC, S/N, Lote 02, Setor Norte
+                                    Quadra QC 1 MC, S/N, Lote 02, sala 106, Setor Norte
                                     <br>
-                                    Planaltina-GO. CEP: 73.751-230
+                                    Planaltina-GO. CEP: 73.752-970
                                 </address>
 
                                 <!-- <dl>
@@ -509,7 +514,7 @@
         <!--*********************************************************************************************************-->
         <footer id="footer">
             <div class="redes">
-                <a href="https://www.instagram.com/residencialformosa/" target="_blank"><i class="fab fa-instagram"></i></a>
+                <a href="https://instagram.com/residencialflordocerrado?igshid=17swtc6669ijj" target="_blank"><i class="fab fa-instagram"></i></a>
                  <a href="https://www.facebook.com/Residencial-Formosa-103433391258449/" target="_blank"><i class="fab fa-facebook-f"></i></a>
                  <a href="https://api.whatsapp.com/send?1=pt_BR&phone=556136378156" target="_blank"><i class="fab fa-whatsapp"></i></a>
             </div>
