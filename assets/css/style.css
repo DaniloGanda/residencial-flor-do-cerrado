@@ -1,16 +1,4 @@
-/*------------------------------------------------------------------
-Project:	Housing - Real Estate Landing Page Template
 
-Default Color   #95c425;
-
-Body copy:		'Poppins', sans-serif; 16px;
-Headers:		'Poppins', sans-serif;
-
--------------------------------------------------------------------*/
-/*1. Classes*/
-/*----------------------------------------------------------------------------------------------------------------------
--B-
- */
  .dark-white{
     background: black!important;
     color: white;
@@ -24,8 +12,25 @@ Headers:		'Poppins', sans-serif;
     margin-left: .3rem;
     margin-right: .3rem;
 }
+.fachada{
+    width: 457px;
+    height: 201px;
+}
 .badge.badge-primary {/*background-color: $color-default;*/
 }
+::-webkit-scrollbar{
+    width: 12px;
+}
+::-webkit-scrollbar-thumb{
+   background:linear-gradient(transparent, #15253b);
+   border-radius: 6px;
+}
+
+::-webkit-scrollbar-thumb:hover{
+    background:linear-gradient(transparent, #fff);
+    border-radius: 6px;
+ }
+
 .big-number {
     padding-bottom: 2rem;
     padding-top: 2rem;
@@ -386,6 +391,10 @@ Headers:		'Poppins', sans-serif;
     padding-bottom: 2rem;
     position: relative;
     background-color: #0000;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
 }
 /*----------------------------------------------------------------------------------------------------------------------
 -H-
@@ -1644,6 +1653,7 @@ textarea.form-control {
         font-size: 1.4rem;
         line-height: 2.4rem;
     }
+    
     .video{
         width: 350px;
     }
@@ -1814,8 +1824,11 @@ textarea.form-control {
     font-size: 30px;
 }
 
+.rigth-espace{
+    margin-right: 10px;
+}
+
 .redes{
-    position: absolute;
     top: 24px;
     right: 100px;
 }
@@ -1877,3 +1890,40 @@ textarea.form-control {
     }
 
 }
+@media(max-width: 375px){
+    .fachada{
+        width: 345px;
+        height: 201px;   
+    }
+}
+
+@media(max-width: 280px){
+    .fachada{
+        width: 251px;
+        height: 201px;   
+    }
+}
+
+@media(max-width: 540px){
+    .fachada{
+        width: 509px;
+        height: 201px;   
+    }
+}
+
+@media(max-width: 1024px) and (max-width: 768px){
+    .fachada{
+        width: 345px;
+        height: 201px;   
+    }
+}
+
+@media(max-width: 320px){
+
+    .fachada{
+        width: 289px;
+        height: 201px;   
+    }
+     
+}
+
