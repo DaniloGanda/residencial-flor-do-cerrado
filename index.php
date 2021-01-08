@@ -49,7 +49,7 @@
                 <div class="background-wrapper" data-parallax="scroll" data-parallax-speed="3">
                     <div class="background">
                         <!--class="owl-carousel hero__slider parallax-element"-->
-                        <div style="height: 100%; margin-top: 20vh; background-size: contain;" data-owl-items="1" data-owl-autoplay="1" data-owl-dots="0" data-owl-nav="1" data-owl-loop="1" data-owl-fadeout="1" data-owl-nav-container=".slider-nav">
+                        <div data-owl-items="1" data-owl-autoplay="1" data-owl-dots="0" data-owl-nav="1" data-owl-loop="1" data-owl-fadeout="1" data-owl-nav-container=".slider-nav">
                         <!--class="slide img-into-bg"-->
                             <div>
                                 <img src="assets/img/banner1.jpeg" alt="Residencial Flor do Cerrado Banner">                                
@@ -76,7 +76,7 @@
                 <div class="row">
                     <div class="hero__outer-wrapper">
                         <div class="hero__inner-wrapper align-bottom">
-                            <div class="col-xl-5 col-lg-5 col-md-7" style="margin-top:100px;">
+                            <div class="col-xl-5 col-lg-5 col-md-7" style="margin-top:-12px;">
                                 <div class="hero__caption has-dark-background border-radius-hero">
                                     <h1 class="maquina" id="title">Residencial Flor do Cerrado</h1>
                                     <form class="form">
