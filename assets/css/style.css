@@ -1880,7 +1880,7 @@ textarea.form-control {
 
 @media (max-height: 638px) {
     #hero .hero__caption {
-        margin-top: -14rem;
+        margin-top: 15rem;
     }
     .plmargin{
         margin-top: 15rem;
