@@ -39,7 +39,7 @@
                         <a class="nav-item nav-link" href="#contact">Contato</a>                    
                         <a class="nav-item nav-link" href="#localizacao">Localização</a>                        
                         <span class="divider"></span>
-                        <span class="nav-info">Quer ter sua casa própria? ligue: (62) 98638-1020</span>
+                        <span class="nav-info" style="color: #5b8dd2;font-weight: bolder;">Quer ter sua casa própria? ligue: (62) 98638-1020</span>
                     </div>
                 </div>
             </nav>
