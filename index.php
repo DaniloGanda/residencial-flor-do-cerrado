@@ -26,7 +26,7 @@
             <nav class="navbar navbar-expand-lg navbar-light fixed-top">
                 <a class="navbar-brand" href="#page-top">
                     <!--<h3 style="color: #fff;">Logo</h3>-->
-                    <img src="assets/img/logo.png" alt="Logo do Residencial Flor do Cerrado" style="width: 30px;">
+                    <img src="assets/img/logo.png" alt="Logo do Residencial Flor do Cerrado" style="width: 150px;">
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation" style="background: white;border-radius: 3px;">
                     <span class="navbar-toggler-icon"></span>
@@ -39,7 +39,7 @@
                         <a class="nav-item nav-link" href="#contact">Contato</a>                    
                         <a class="nav-item nav-link" href="#localizacao">Localização</a>                        
                         <span class="divider"></span>
-                        <span class="nav-info" style="color: #5b8dd2;font-weight: bolder;">Quer ter sua casa própria? ligue: (62) 98638-1020</span>
+                        <span class="nav-info" style="color: #666633;font-weight: bolder;">Quer ter sua casa própria? ligue: (62) 98638-1020</span>
                     </div>
                 </div>
             </nav>
@@ -358,7 +358,7 @@
                                         .whatswidget-cta-mobile{display:none !important}}.whatswidget-button-wrapper{position:fixed !important;bottom:15px !important;right:15px !important}.whatswidget-button{position:relative !important;right:0px !important;background-color:#31d831 !important;border-radius:100% !important;width:60px !important;height:60px !important;box-shadow:2px 1px #0d630d63 !important;transition:1s !important}.whatswidget-icon{width:42px !important;height:42px !important;position:absolute !important; bottom:10px !important; left:10px !important;}.whatswidget-button:hover{filter:brightness(115%) !important;transform:rotate(15deg) scale(1.15) !important;cursor:pointer !important}@keyframes nudge{20%,100%{transform:translate(0,0)}0%{transform:translate(0,5px);transform:rotate(2deg)}10%{transform:translate(0,-5px);transform:rotate(-2deg)}}.whatswidget-link{position:absolute !important;bottom:90px !important;right:5px !important;opacity:0.5 !important}</style>
                                         </div>
                                         <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-                                        <lottie-player src="https://assets9.lottiefiles.com/private_files/lf30_qljp3S.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop  autoplay data-anime="left"></lottie-player>                                      
+                                        <lottie-player src="assets/lf30_editor_rb0lpjml.json"   background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop  autoplay data-anime="left"></lottie-player>                                      
                                     </div>
                                 </div>
                             </div>
