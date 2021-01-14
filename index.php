@@ -28,7 +28,7 @@
                     <!--<h3 style="color: #fff;">Logo</h3>-->
                     <img src="assets/img/logo.png" alt="Logo do Residencial Flor do Cerrado" style="width: 150px;">
                 </a>
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation" style="background: white;border-radius: 3px;">
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation" style="background: #666633;border-radius: 3px;">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
@@ -259,15 +259,15 @@
                                 <ul class="list list--text list--dashed">
                                     <li data-scroll-reveal="enter bottom and move 10px">
                                     <h5 class="opacity-50"><strong data-anime="left">Fase 1</strong></h5>                                        
-                                        <h4  data-anime="left">Inscrições                                            
+                                        <h4  data-anime="left" class="subtitle">Inscrições                                            
                                         </h4>
                                         <p data-anime="left">
-                                             Presencialmente no ponto de atendimento na Rua MC, Quadra QC 1 MC, Lote 2, sala 106, Setor Norte, Planaltina/GO (ao lado da Caixa Econômica Federal). Para fazer o download da documentação necessária,<a href="assets/img/requisitos.pdf" download> <u>clique aqui!</u></a>
+                                             Presencialmente no ponto de atendimento na Rua MC, Quadra QC 1 MC, Lote 2, sala 106, Setor Norte, Planaltina/GO (ao lado da Caixa Econômica Federal). Para fazer o download da documentação necessária,<a href="assets/img/requisitos.pdf" download> <u style="color:#666633;">clique aqui!</u></a>
                                         </p>
                                     </li>
                                     <li data-scroll-reveal="enter bottom and move 10px after 0.1s">
                                     <h5 class="opacity-50"><strong data-anime="left">Fase 2</strong></h5>                                        
-                                        <h4 data-anime="left" >Avaliação de Crédito                                           
+                                        <h4 data-anime="left" class="subtitle" >Avaliação de Crédito                                           
                                         </h4>
                                         <p data-anime="left">
                                             A análise de crédito será feita pela representante da CAIXA conforme as regras de financiamento da instituição. Durante este período de avaliação de crédio as famílias interessadas deverão ir até o ponto de atendimento com toda a documentação exigida.
@@ -275,7 +275,7 @@
                                     </li>
                                     <li data-scroll-reveal="enter bottom and move 10px after 0.2s">
                                     <h5 class="opacity-50"><strong data-anime="left">Fase 3</strong></h5>                                        
-                                        <h4 data-anime="left">Sorteio                                           
+                                        <h4 data-anime="left" class="subtitle">Sorteio                                           
                                         </h4>
                                         <p data-anime="left">
                                             O sorteio só será realizado no caso do número de interessados cadastrados e aprovados for maior do que a quantidade de unidades habitacionais disponibilizadas.
@@ -283,7 +283,7 @@
                                     </li>
                                     <li data-scroll-reveal="enter bottom and move 10px after 0.3s">
                                     <h5 class="opacity-50"><strong data-anime="left">Fase 4</strong></h5>                                        
-                                        <h4 data-anime="left">Análise da documentação                                          
+                                        <h4 data-anime="left" class="subtitle">Análise da documentação                                          
                                         </h4>
                                         <p data-anime="left">
                                             Análise de documentos pela Agência Goiana de Habitação (AGEHAB).

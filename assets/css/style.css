@@ -1,6 +1,6 @@
 
  .dark-white{
-    background: #000000!important;
+    background: #1B2B44!important;
     color: white;
  }
  .badge {
@@ -403,7 +403,7 @@
     height: 100%;
 }
 #hero .hero__caption {
-    background-color: #000000;
+    background-color: #1B2B44;
     box-shadow: 0 .1rem 2rem rgba(0,0,0,.15);
     padding: 6rem 3rem;
     color: #fff;
@@ -625,7 +625,7 @@
 -N-
  */
 .navbar {
-    background-color: #000000;
+    background-color: #1B2B44;
     box-shadow: 0 .1rem 2rem rgba(0,0,0,.15);
     padding: 3rem;
     font-size: 1.4rem;
@@ -746,6 +746,10 @@
 .nav-pills.nav-pills--minimal .nav-link.active {
     border-color: #666633;
     color: #000000;
+}
+
+.subtitle{
+    color:#666633;
 }
 /*----------------------------------------------------------------------------------------------------------------------
 -O-
