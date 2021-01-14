@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="assets/css/magnific-popup.css">
     <link rel="stylesheet" href="assets/css/style.css">
     <title>Residencial Flor do Cerrado - Planaltina-GO</title>
-    <link rel="shortcut icon" type="image/png" href="assets/img/logoformosaicon.png"/>
+    <link rel="shortcut icon" type="image/png" href="assets/img/logo.png"/>
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
 
 </head>
