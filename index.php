@@ -203,13 +203,12 @@
             <section class="block plmargin" id="inscricao">
                 <div class="container">
                     <div class="block__wrapper">
-                        <div class="row">
-                            <div class="col-md-12" data-anime="left">
-                                <div class="push-down">
+                        <div class="row" style="display: flex; justify-content: center; align-items: center;">
+                                <div class="col-md-6" style="text-align: center;" data-anime="left">
                                     <h2 class="text-align-center title-color" data-scroll-reveal="enter left and move 10px">Quem pode se inscrever?</h2>
                                     <h4 class="text-align-center" data-scroll-reveal="enter left and move 10px">Famílias que atendam os seguintes requisitos:</h3>
                                     <p class="text-align-left" data-scroll-reveal="enter left and move 10px after 0.1s">
-                                        <ol>
+                                        <ol style="text-align: justify;">
                                         <li>Não pode ser proprietário, cessionário ou promitente comprador de imóvel residencial;</li>
                                         <li>Não ter recebido benefícios em programas habitacionais com recursos oriundos da União, Estado ou Município;</li>
                                         <li>Residir e trabalhar na região metropolitana de Planaltina de Goiás, comprovado vínculo de no mínimo 3 anos;</li>
@@ -222,7 +221,11 @@
                                         </ol>
                                     </p>                                    
                                 </div>
-                            </div>                            
+                                <div class="col-md-6">
+                                <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+                                <lottie-player src="https://assets4.lottiefiles.com/packages/lf20_BonJMC.json"  background="transparent" data-anime="left"  speed="1"  style="width: 106%; height: 100%;"  loop  autoplay></lottie-player>
+                                </div>
+                                                    
                         </div>
                         <!--end row-->
                         <div class="background-wrapper">
