@@ -173,7 +173,7 @@
                                     <h2 class="text-align-right title-color" data-scroll-reveal="enter left and move 10px">Seu sonho realizado!</h2>
                                     <p class="text-align-justify" data-scroll-reveal="enter left and move 10px after 0.1s">
                                         O Residencial Flor do Cerrado está localizado em Planaltina do Goiás, pertinho de você com todo conforto e qualidade que você precisa para realizar o seu sonho da casa própria.
-                                        O empreendimento será construído com recursos do FGTS, concedido pelo programa Minha Casa Minha Vida e terá prazo de financiamento de 360 meses. Os custos do beneficiário serão mínimos: parcelas a partir de R$400,00.
+                                        O empreendimento será construído com recursos do FGTS, concedido pelo programa Casa Verde e Amarelo e terá prazo de financiamento de 360 meses. Os custos do beneficiário serão mínimos: parcelas a partir de R$400,00.
                                     </p>
                                     <a href="#contact" class="btn btn-primary btn-framed">Fale Conosco</a>
                                 </div>
@@ -273,7 +273,7 @@
                                         <h4 data-anime="left" class="subtitle" >Avaliação de Crédito                                           
                                         </h4>
                                         <p data-anime="left">
-                                            A análise de crédito será feita pela representante da CAIXA conforme as regras de financiamento da instituição. Durante este período de avaliação de crédio as famílias interessadas deverão ir até o ponto de atendimento com toda a documentação exigida.
+                                            A análise de crédito será feita pela representante da CAIXA conforme as regras de financiamento da instituição. Durante este período de avaliação de crédito as famílias interessadas deverão ir até o ponto de atendimento com toda a documentação exigida.
                                         </p>
                                     </li>
                                     <li data-scroll-reveal="enter bottom and move 10px after 0.2s">
