@@ -275,7 +275,7 @@
                                         <p data-anime="left">
                                             A análise de crédito será feita pela representante da CAIXA conforme as regras de financiamento da instituição. Durante este período de avaliação de crédito as famílias interessadas deverão ir até o ponto de atendimento com toda a documentação exigida.
                                         </p>
-                                    </li>
+                                    </li> 
                                     <li data-scroll-reveal="enter bottom and move 10px after 0.2s">
                                     <h5 class="opacity-50"><strong data-anime="left">Fase 3</strong></h5>                                        
                                         <h4 data-anime="left" class="subtitle">Sorteio                                           
